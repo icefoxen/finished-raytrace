@@ -212,7 +212,7 @@ let cameraRay x y planepoint focuspoint splits =
    
 
 let r = {
-  size = 800;
+  size = 1024;
 
   output = [];
   tracedepth = 0.0;
